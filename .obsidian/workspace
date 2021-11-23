@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "3c67cc5d76f803a0",
+    "id": "50a44e7fb60254cc",
     "type": "split",
     "children": [
       {
-        "id": "16a6fe61800d6836",
+        "id": "4209e4ef1de85ded",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Introduction to Conformity.md",
+            "file": "Psychology/Introduction to Conformity.md",
             "mode": "preview"
           }
         }
@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6aba2c1fa156cd5a",
+    "id": "fbd7725facf4d898",
     "type": "split",
     "children": [
       {
-        "id": "ea87f152f4b48a17",
+        "id": "76594a900f1028f5",
         "type": "tabs",
         "children": [
           {
-            "id": "b1b7ed514f226fab",
+            "id": "b860347ffc59ab2e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "2e2244454dfca204",
+            "id": "8b2be777f61f21d1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -55,27 +55,27 @@
     "width": 300
   },
   "right": {
-    "id": "0a4981e7fa60c1ac",
+    "id": "2b873d260c7e6ca3",
     "type": "split",
     "children": [
       {
-        "id": "19604cfccc26f173",
+        "id": "9ced6339a936cdce",
         "type": "tabs",
         "children": [
           {
-            "id": "f373ccf00a2d85d6",
+            "id": "ebe7ce4c9afdca44",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to Conformity.md",
+                "file": "Psychology/Introduction to Conformity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -86,8 +86,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "16a6fe61800d6836",
+  "active": "4209e4ef1de85ded",
   "lastOpenFiles": [
-    "Introduction to Conformity.md"
+    "Psychology/Introduction to Conformity.md"
   ]
 }
