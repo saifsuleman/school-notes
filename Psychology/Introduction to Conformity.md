@@ -22,4 +22,3 @@ Deutsch and Gerard (1955) suggested 2 explanations as to why people conform:
 
 ### Individual Differences in ISI
 Research shows that NSI does not affect everyone's behaviour in the same way - for example, people who are less concerned with being liked are less affected by NSI than those who care about being liked. These people that have a greater need for association with others are described as **nAffiliators**. These are people who have a greater need for affiliation - a need for being in a relationship with others. **McGhee and Teevan (1967)** found that students in high need of affiliation were more likely to conform.
-
